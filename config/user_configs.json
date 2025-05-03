@@ -1,0 +1,24 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/Yoshi80/Rush-HD-Pictures",
+			"repo_name": "Rush Duel HD Card Project",
+			"repo_path": "./repositories/rush-hd",
+			"has_core": false,
+			"data_path": "",
+			"script_path": "script",
+			"pics_path": "pics",
+			"expansions_path": "expansions",
+			"should_update": true,
+			"should_read": true
+		}
+	],
+	"urls": [
+		{
+            "url": "https://raw.githubusercontent.com/Yoshi80/Rush-HD-Pictures/master/pics/field/{}.png",
+            "type": "field"
+        }
+	],
+	"servers": [],
+	"posixPathExtension": "/usr/local/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands"
+}
