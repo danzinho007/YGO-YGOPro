@@ -1,0 +1,509 @@
+Name of the deck: 
+Kuma Kashiki, Gay Clown Rugby Player
+------------------------
+CHECKING EXTRA MATERIALS
+------------------------
+Card Tuner LV3 NECESSARY FOR:
+9888196
+REPLACEMENT: slot n°0
+45586855
+-Rank 2 XYZ-
+Rank 2 materials that are already there:
+Slot number: 21
+Number of locked cards: 1
+Generating new Rank 2 material
+Slot number: 1
+Replacement not necessary for 80696379: Tuner LV3 already there
+Slot number: 0
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 95789089
+at Slot number: 7
+Card n°: 39507162
+at Slot number: 10
+-Rank 7 XYZ-
+The Rank 7 materials are already there:
+Card n°: 81919143
+at Slot number: 6
+Card n°: 56784842
+at Slot number: 16
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 95789089
+at Slot number: 7
+Card n°: 39507162
+at Slot number: 10
+-Rank 6 XYZ-
+Rank 6 materials that are already there:
+Slot number: 18
+Number of locked cards: 1
+Generating new Rank 6 material
+Slot number: 2
+-Rank 5 XYZ-
+Rank 5 materials that are already there:
+None.
+Number of locked cards: 0
+Generating new Rank 5 material
+Slot number: 3
+Number of locked cards: 1
+Generating new Rank 5 material
+Slot number: 4
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 95789089
+at Slot number: 7
+Card n°: 39507162
+at Slot number: 10
+Replacement not necessary for 97204936: Tuner LV2 already there
+Slot number: 1
+------------------------
+CHECKING DECK
+------------------------
+Checking slot n° 0
+45586855 Generic Need Tuner
+Checking slot n° 1
+98437424 Generic
+Checking slot n° 2
+44702857 Generic
+Checking slot n° 3
+64268668 Generic Calls itself
+ADDITIONAL COPIES FOR:
+64268668
+SECOND COPY: slot n°5
+64268668
+THIRD COPY: slot n°8
+64268668
+Multiple replacements!
+Checking at slot n° 5: card n° 64268668
+Checking slot n° 5
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Continuing from slot n° 5
+Checking slot n° 6
+81919143 Generic
+Continuing from slot n° 6
+Checking slot n° 7
+95789089 Generic
+Continuing from slot n° 7
+Checking slot n° 8
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Continuing from slot n° 8
+Checking slot n° 9
+22873798 Generic Calls itself
+ADDITIONAL COPIES FOR:
+22873798
+SECOND COPY: slot n°11
+22873798
+THIRD COPY: slot n°12
+22873798
+Multiple replacements!
+Checking at slot n° 8: card n° 64268668
+Checking slot n° 8
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Multiple replacements!
+Checking at slot n° 11: card n° 22873798
+Checking slot n° 11
+22873798 Generic Calls itself
+Card 22873798 has already 3 copies!
+Continuing from slot n° 11
+Checking slot n° 12
+22873798 Generic Calls itself
+Card 22873798 has already 3 copies!
+Continuing from slot n° 12
+Checking slot n° 13
+46247516 Generic
+Checking at slot n° 12: card n° 22873798
+Checking slot n° 12
+22873798 Generic Calls itself
+Card 22873798 has already 3 copies!
+Back to slot n° 3
+Checking slot n° 3
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Checking slot n° 4
+99249638 Generic Union
+Card Union NECESSARY FOR:
+99249638
+At slot n° 4
+No Union cards!
+REPLACEMENT: slot n°4
+85359414
+Continuing from slot n° 4
+Checking slot n° 5
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Checking at slot n° 4: card n° 85359414
+Checking slot n° 4
+85359414 Generic Pair
+Replaced Pair card at slot n° 13 : 59364406
+Continuing from slot n° 4
+Checking slot n° 5
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Continuing from slot n° 5
+Checking slot n° 6
+81919143 Generic
+Continuing from slot n° 6
+Checking slot n° 7
+95789089 Generic
+Continuing from slot n° 7
+Checking slot n° 8
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Continuing from slot n° 8
+Checking slot n° 9
+22873798 Generic Calls itself
+Card 22873798 has already 3 copies!
+Continuing from slot n° 9
+Checking slot n° 10
+39507162 Generic
+Continuing from slot n° 10
+Checking slot n° 11
+22873798 Generic Calls itself
+Card 22873798 has already 3 copies!
+Continuing from slot n° 11
+Checking slot n° 12
+22873798 Generic Calls itself
+Card 22873798 has already 3 copies!
+Continuing from slot n° 12
+Checking slot n° 13
+59364406 Generic Pair
+Pair card is already present at at slot n° 4: 85359414
+Continuing from slot n° 13
+Checking slot n° 14
+78355370 Generic
+Checking at slot n° 13: card n° 59364406
+Checking slot n° 13
+59364406 Generic Pair
+Pair card is already present at at slot n° 4: 85359414
+Checking slot n° 14
+78355370 Generic
+Checking slot n° 15
+37742478 Generic
+Checking slot n° 16
+56784842 Generic
+Checking slot n° 17
+55773067 Generic
+Checking slot n° 18
+82841979 Generic Spirit
+Card Spirit NECESSARY FOR:
+82841979
+At slot n° 18
+No Spirit cards!
+REPLACEMENT: slot n°14
+3078576
+Checking at slot n° 14: card n° 3078576
+Checking slot n° 14
+3078576 Generic
+Checking slot n° 15
+37742478 Generic
+Checking slot n° 16
+56784842 Generic
+Checking slot n° 17
+55773067 Generic
+Checking slot n° 18
+82841979 Generic Spirit
+Card Spirit NECESSARY FOR:
+82841979
+At slot n° 18
+Card Spirit already there: 3078576 at position n° 14
+ Number of copies: 1, replacement not necessary
+Checking slot n° 19
+82176812 Generic
+Checking slot n° 20
+25774450 Generic
+Checking slot n° 21
+23571046 Generic Need Tuner
+Checking slot n° 22
+70278545 Generic
+Checking slot n° 23
+44223284 Generic
+Checking slot n° 24
+84397023 Generic
+Checking slot n° 25
+42709949 Generic 3 same
+3 cards already there! Just lock 42709949 at slot 25
+Checking slot n° 26
+54878498 Generic
+Checking slot n° 27
+8198712 Generic Ritual
+Rituals in the trash! Picking another card: 9076207
+Continuing from slot n° 26
+Checking slot n° 27
+9076207 Generic
+Continuing from slot n° 27
+Checking slot n° 28
+71453557 Generic
+Checking at slot n° 27: card n° 9076207
+Checking slot n° 27
+9076207 Generic
+Checking slot n° 28
+71453557 Generic
+Checking slot n° 29
+269012 Generic
+Checking slot n° 30
+14731897 Generic Pair
+Replaced Pair card at slot n° 15 : 55948544
+Checking at slot n° 15: card n° 55948544
+Checking slot n° 15
+55948544 Generic Pair
+Pair card is already present at at slot n° 30: 14731897
+Checking slot n° 16
+56784842 Generic
+Checking slot n° 17
+55773067 Generic
+Checking slot n° 18
+82841979 Generic Spirit
+Card Spirit NECESSARY FOR:
+82841979
+At slot n° 18
+Card Spirit already there: 3078576 at position n° 14
+ Number of copies: 1, replacement not necessary
+Checking slot n° 19
+82176812 Generic
+Checking slot n° 20
+25774450 Generic
+Checking slot n° 21
+23571046 Generic Need Tuner
+Checking slot n° 22
+70278545 Generic
+Checking slot n° 23
+44223284 Generic
+Checking slot n° 24
+84397023 Generic
+Checking slot n° 25
+42709949 Generic 3 same
+3 cards already there! Just lock 42709949 at slot 25
+Checking slot n° 26
+54878498 Generic
+Checking slot n° 27
+9076207 Generic
+Checking slot n° 28
+71453557 Generic
+Checking slot n° 29
+269012 Generic
+Checking slot n° 30
+14731897 Generic Pair
+Pair card is already present at at slot n° 15: 55948544
+Checking slot n° 31
+15693423 Generic
+Checking slot n° 32
+65830223 Generic
+Checking slot n° 33
+51449743 Generic
+Checking slot n° 34
+97077563 Generic
+Checking slot n° 35
+85306040 Generic
+Checking slot n° 36
+10236520 Generic
+Checking slot n° 37
+56346071 Generic
+Checking slot n° 38
+88494899 Generic
+Checking slot n° 39
+88494120 Generic
+------------------------
+CHECKING SETS
+------------------------
+------------------------
+FILLING DECK
+------------------------
+Filling free slot n°17 with a random card at slot n°26
+Slot n°19 will stay free!
+Slot n°20 will stay free!
+Slot n°22 will stay free!
+Slot n°23 will stay free!
+Filling free slot n°24 with a bonus copy of card at slot n°36
+Slot n°26 will stay free!
+Slot n°27 will stay free!
+Slot n°28 will stay free!
+Slot n°29 will stay free!
+Slot n°31 will stay free!
+Slot n°32 will stay free!
+Filling free slot n°33 with a random card at slot n°20
+Filling free slot n°34 with a random card at slot n°6
+Slot n°39 will stay free!
+------------------------
+OPTIMIZING DECK
+------------------------
+No luck! Not adding any High Level support cards this time.
+No need to add any Ritual optimization.
+No need to add any Ritual optimization.
+No need to add any Pendulums optimization.
+No need to add any Level2lower optimization.
+No need to add any Gemini support optimization.
+No need to add any Gemini Monster optimization.
+No need to add any Normal support optimization.
+No need to add any Normal Monster optimization.
+No need to add any Spirit monster optimization.
+No need to add any Spirit support optimization.
+No need to add any Equip spells optimization.
+No need to add any Equip cards optimization.
+No need to add any Continspells optimization.
+No need to add any Fieldspells optimization.
+No need to add any Quickspells optimization.
+No need to add any Contintraps optimization.
+No need to add any Countertraps optimization.
+No need to add any Flip monster optimization.
+No need to add any Flip support optimization.
+No need to add any Banish optimization.
+No need to add any Tuners optimization.
+No need to add any Tokens optimization.
+No need to add any Union monster optimization.
+No need to add any Union support optimization.
+No need to add any Spell Counter optimization.
+Optimization! Adding 2 XYZ support cards
+Generating new XYZ support material
+35394356 at slot number: 19
+Generating new XYZ support material
+73632127 at slot number: 20
+No need to add any Synchro support optimization.
+No need to add any Link support optimization.
+No need to add any Level1 optimization.
+BIG Optimization! Adding 4 Level3 cards
+Generating new Level3 material
+28637168 at slot number: 22
+Generating new Level3 material
+82693042 at slot number: 23
+Generating new Level3 material
+45651298 at slot number: 26
+Generating new Level3 material
+8736823 at slot number: 27
+No need to add any Level7 optimization.
+No need to add any Level8 optimization.
+------------------------
+FINAL CHECKS: n° 1
+------------------------
+Checking slot n° 0
+45586855 Generic Need Tuner
+Checking slot n° 1
+98437424 Generic
+Checking slot n° 2
+44702857 Generic
+Checking slot n° 3
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Checking slot n° 4
+85359414 Generic Pair
+Pair card is already present at at slot n° 13: 59364406
+Checking slot n° 5
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Checking slot n° 6
+81919143 Generic
+Checking slot n° 7
+95789089 Generic
+Checking slot n° 8
+64268668 Generic Calls itself
+Card 64268668 has already 3 copies!
+Checking slot n° 9
+22873798 Generic Calls itself
+Card 22873798 has already 3 copies!
+Checking slot n° 10
+39507162 Generic
+Checking slot n° 11
+22873798 Generic Calls itself
+Card 22873798 has already 3 copies!
+Checking slot n° 12
+22873798 Generic Calls itself
+Card 22873798 has already 3 copies!
+Checking slot n° 13
+59364406 Generic Pair
+Pair card is already present at at slot n° 4: 85359414
+Checking slot n° 14
+3078576 Generic
+Checking slot n° 15
+55948544 Generic Pair
+Pair card is already present at at slot n° 30: 14731897
+Checking slot n° 16
+56784842 Generic
+Checking slot n° 17
+54878498 Generic
+Checking slot n° 18
+82841979 Generic Spirit
+Card Spirit NECESSARY FOR:
+82841979
+At slot n° 18
+Card Spirit already there: 3078576 at position n° 14
+ Number of copies: 1, replacement not necessary
+Checking slot n° 19
+35394356 Generic
+Checking slot n° 20
+73632127 Generic
+Checking slot n° 21
+23571046 Generic Need Tuner
+Checking slot n° 22
+28637168 Generic Level3
+Card Level3 NECESSARY FOR:
+28637168
+At slot n° 22
+Card Level3 already there: 45586855 at position n° 0
+ Number of copies: 1, replacement not necessary
+Checking slot n° 23
+82693042 Generic Level3
+Card Level3 NECESSARY FOR:
+82693042
+At slot n° 23
+Card Level3 already there: 45586855 at position n° 0
+ Number of copies: 1, replacement not necessary
+Checking slot n° 24
+10236520 Generic
+Checking slot n° 25
+42709949 Generic 3 same
+3 cards already there! Just lock 42709949 at slot 25
+Checking slot n° 26
+45651298 Generic Level3
+Card Level3 NECESSARY FOR:
+45651298
+At slot n° 26
+Card Level3 already there: 45586855 at position n° 0
+ Number of copies: 1, replacement not necessary
+Checking slot n° 27
+8736823 Generic Banish Level3
+Card Level3 NECESSARY FOR:
+8736823
+At slot n° 27
+Card Level3 already there: 45586855 at position n° 0
+ Number of copies: 1, replacement not necessary
+Card Banish NECESSARY FOR:
+8736823
+At slot n° 27
+No Banish cards!
+REPLACEMENT: slot n°27
+30241314
+Continuing from slot n° 27
+Checking slot n° 28
+71453557 Generic
+Checking at slot n° 27: card n° 30241314
+Checking slot n° 27
+30241314 Generic
+Checking slot n° 28
+71453557 Generic
+Checking slot n° 29
+269012 Generic
+Checking slot n° 30
+14731897 Generic Pair
+Pair card is already present at at slot n° 15: 55948544
+Checking slot n° 31
+15693423 Generic
+Checking slot n° 32
+65830223 Generic
+Checking slot n° 33
+25774450 Generic
+Checking slot n° 34
+81919143 Generic
+Checking slot n° 35
+85306040 Generic
+Checking slot n° 36
+10236520 Generic
+Checking slot n° 37
+56346071 Generic
+Checking slot n° 38
+88494899 Generic
+Checking slot n° 39
+88494120 Generic
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 126, 18, 19, 20, 21, 22, 23, 136, 25, 26, 27, 666, 666, 30, 666, 666, 120, 106, 35, 36, 37, 38, 666]
+

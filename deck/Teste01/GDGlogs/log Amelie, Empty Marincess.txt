@@ -1,0 +1,310 @@
+Name of the deck: 
+Amelie, Empty Marincess
+------------------------
+CHECKING EXTRA MATERIALS
+------------------------
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 40672993
+at Slot number: 8
+Card n°: 93151201
+at Slot number: 12
+Replacement not necessary for 80696379: Tuner LV3 already there
+Slot number: 4
+Card Tuner LV2 NECESSARY FOR:
+38904695
+REPLACEMENT: slot n°0
+72291078
+Card Tuner LV4 NECESSARY FOR:
+44508095
+REPLACEMENT: slot n°1
+53623827
+Replacement not necessary for 97204936: Tuner LV2 already there
+Slot number: 0
+Replacement not necessary for 74586817: Tuner LV4 already there
+Slot number: 1
+-Rank 2 XYZ-
+The Rank 2 materials are already there:
+Card n°: 72291078
+at Slot number: 0
+Card n°: 27971137
+at Slot number: 2
+Replacement not necessary for 42566602: Tuner LV2 already there
+Slot number: 0
+-Rank 3 XYZ-
+The Rank 3 materials are already there:
+Card n°: 16226786
+at Slot number: 3
+Card n°: 83295594
+at Slot number: 4
+Replacement not necessary for 4179255: Tuner LV3 already there
+Slot number: 4
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 53623827
+at Slot number: 1
+Card n°: 40672993
+at Slot number: 8
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 53623827
+at Slot number: 1
+Card n°: 40672993
+at Slot number: 8
+------------------------
+CHECKING DECK
+------------------------
+Checking slot n° 0
+72291078 Generic
+Checking slot n° 1
+53623827 Generic
+Checking slot n° 2
+27971137 Generic
+Checking slot n° 3
+16226786 Generic Flip
+Card Flip NECESSARY FOR:
+16226786
+At slot n° 3
+Card Flip already there: 16226786 at position n° 3
+ Number of copies: 1, replacement not necessary
+Checking slot n° 4
+83295594 Generic
+Checking slot n° 5
+46384403 Generic Calls itself
+ADDITIONAL COPIES FOR:
+46384403
+SECOND COPY: slot n°6
+46384403
+THIRD COPY: slot n°7
+46384403
+Multiple replacements!
+Checking at slot n° 6: card n° 46384403
+Checking slot n° 6
+46384403 Generic Calls itself
+Card 46384403 has already 3 copies!
+Continuing from slot n° 6
+Checking slot n° 7
+46384403 Generic Calls itself
+Card 46384403 has already 3 copies!
+Continuing from slot n° 7
+Checking slot n° 8
+40672993 Generic
+Checking at slot n° 7: card n° 46384403
+Checking slot n° 7
+46384403 Generic Calls itself
+Card 46384403 has already 3 copies!
+Back to slot n° 5
+Checking slot n° 5
+46384403 Generic Calls itself
+Card 46384403 has already 3 copies!
+Checking slot n° 6
+46384403 Generic Calls itself
+Card 46384403 has already 3 copies!
+Checking slot n° 7
+46384403 Generic Calls itself
+Card 46384403 has already 3 copies!
+Checking slot n° 8
+40672993 Generic
+Checking slot n° 9
+75987257 Generic
+Checking slot n° 10
+78355370 Generic
+Checking slot n° 11
+99284890 Generic
+Checking slot n° 12
+93151201 Generic
+Checking slot n° 13
+51345461 Generic
+Checking slot n° 14
+27408609 Generic Banish
+Card Banish NECESSARY FOR:
+27408609
+At slot n° 14
+Card Banish already there: 6733059 at position n° 31
+ Number of copies: 1, replacement not necessary
+Checking slot n° 15
+67646312 Generic
+Checking slot n° 16
+25733157 Generic
+Checking slot n° 17
+48422921 Generic
+Checking slot n° 18
+44125452 Generic
+Checking slot n° 19
+42599677 Generic
+Checking slot n° 20
+67284107 Generic
+Checking slot n° 21
+49888191 Generic
+Checking slot n° 22
+96704018 Generic
+Checking slot n° 23
+44663232 Generic
+Checking slot n° 24
+41356845 Generic
+Checking slot n° 25
+30778711 Generic
+Checking slot n° 26
+86361354 Generic
+Checking slot n° 27
+33423043 Generic
+Checking slot n° 28
+7672244 Generic
+Checking slot n° 29
+90502999 Generic
+Checking slot n° 30
+79323590 Generic
+Checking slot n° 31
+6733059 Generic
+Checking slot n° 32
+36376145 Generic
+Checking slot n° 33
+56916805 Generic
+Checking slot n° 34
+55948544 Generic Pair
+Replaced Pair card at slot n° 9 : 14731897
+Checking at slot n° 9: card n° 14731897
+Checking slot n° 9
+14731897 Generic Pair
+Pair card is already present at at slot n° 34: 55948544
+Checking slot n° 10
+78355370 Generic
+Checking slot n° 11
+99284890 Generic
+Checking slot n° 12
+93151201 Generic
+Checking slot n° 13
+51345461 Generic
+Checking slot n° 14
+27408609 Generic Banish
+Card Banish NECESSARY FOR:
+27408609
+At slot n° 14
+Card Banish already there: 6733059 at position n° 31
+ Number of copies: 1, replacement not necessary
+Checking slot n° 15
+67646312 Generic
+Checking slot n° 16
+25733157 Generic
+Checking slot n° 17
+48422921 Generic
+Checking slot n° 18
+44125452 Generic
+Checking slot n° 19
+42599677 Generic
+Checking slot n° 20
+67284107 Generic
+Checking slot n° 21
+49888191 Generic
+Checking slot n° 22
+96704018 Generic
+Checking slot n° 23
+44663232 Generic
+Checking slot n° 24
+41356845 Generic
+Checking slot n° 25
+30778711 Generic
+Checking slot n° 26
+86361354 Generic
+Checking slot n° 27
+33423043 Generic
+Checking slot n° 28
+7672244 Generic
+Checking slot n° 29
+90502999 Generic
+Checking slot n° 30
+79323590 Generic
+Checking slot n° 31
+6733059 Generic
+Checking slot n° 32
+36376145 Generic
+Checking slot n° 33
+56916805 Generic
+Checking slot n° 34
+55948544 Generic Pair
+Pair card is already present at at slot n° 9: 14731897
+Checking slot n° 35
+94004268 Generic
+Checking slot n° 36
+47013502 Generic
+Checking slot n° 37
+90147755 Generic
+Checking slot n° 38
+18063928 Generic
+Checking slot n° 39
+42776960 Generic
+------------------------
+CHECKING SETS
+------------------------
+------------------------
+FILLING DECK
+------------------------
+Filling free slot n°10 with a bonus copy of card at slot n°9
+Slot n°11 will stay free!
+Filling free slot n°13 with a random card at slot n°23, but not locking this slot.
+Slot n°13 will stay free!
+Slot n°15 will stay free!
+Slot n°16 will stay free!
+Slot n°17 will stay free!
+Slot n°18 will stay free!
+Filling free slot n°19 with a random card at slot n°13, but not locking this slot.
+Can't add this card! It has 3 copies already!
+Filling free slot n°19 with a bonus copy of card at slot n°0
+Slot n°20 will stay free!
+Filling free slot n°21 with a random card at slot n°16
+Filling free slot n°22 with a random card at slot n°2, but not locking this slot.
+Filling free slot n°22 with a random card at slot n°17
+Can't add this card! It has 3 copies already!
+Filling free slot n°23 with a bonus copy of card at slot n°0
+Can't add this card! It has 3 copies already!
+Filling free slot n°24 with a random card at slot n°20, but not locking this slot.
+Slot n°24 will stay free!
+Slot n°25 will stay free!
+Slot n°26 will stay free!
+Slot n°27 will stay free!
+Slot n°28 will stay free!
+Slot n°29 will stay free!
+Slot n°30 will stay free!
+Filling free slot n°32 with a random card at slot n°13, but not locking this slot.
+Slot n°32 will stay free!
+Slot n°33 will stay free!
+Slot n°39 will stay free!
+------------------------
+OPTIMIZING DECK
+------------------------
+No need to add any High Level support optimization.
+No need to add any Ritual optimization.
+No need to add any Ritual optimization.
+No need to add any Pendulums optimization.
+No need to add any Level2lower optimization.
+No need to add any Gemini support optimization.
+No need to add any Gemini Monster optimization.
+No need to add any Normal support optimization.
+No need to add any Normal Monster optimization.
+No need to add any Spirit monster optimization.
+No need to add any Spirit support optimization.
+No need to add any Equip spells optimization.
+No need to add any Equip cards optimization.
+No need to add any Continspells optimization.
+No need to add any Fieldspells optimization.
+No need to add any Quickspells optimization.
+No need to add any Contintraps optimization.
+No need to add any Countertraps optimization.
+No need to add any Flip monster optimization.
+No need to add any Flip support optimization.
+No need to add any Banish optimization.
+No need to add any Tuners optimization.
+No need to add any Tokens optimization.
+No need to add any Union monster optimization.
+No need to add any Union support optimization.
+No need to add any Spell Counter optimization.
+No need to add any XYZ support optimization.
+No luck! Not adding any Synchro support cards this time.
+No need to add any Link support optimization.
+No need to add any Level1 optimization.
+No luck! Not adding any Level3 cards this time.
+No need to add any Level7 optimization.
+No need to add any Level8 optimization.
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 109, 999, 12, 999, 14, 999, 999, 999, 999, 100, 999, 116, 117, 100, 999, 999, 999, 999, 999, 999, 999, 31, 999, 999, 34, 35, 36, 37, 38, 999]
+
+

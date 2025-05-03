@@ -1,0 +1,324 @@
+Name of the deck: 
+0 random 36152768
+------------------------
+CHECKING EXTRA MATERIALS
+------------------------
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 64379430
+at Slot number: 0
+Card n°: 3072077
+at Slot number: 15
+Replacement not necessary for 45215453: Tuner LV3 already there
+Slot number: 19
+Card Tuner LV2 NECESSARY FOR:
+35252119
+REPLACEMENT: slot n°1
+6142213
+Card Tuner LV4 NECESSARY FOR:
+3040496
+REPLACEMENT: slot n°2
+17720747
+Replacement not necessary for 37910722: Tuner LV3 already there
+Slot number: 19
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 64379430
+at Slot number: 0
+Card n°: 17720747
+at Slot number: 2
+-Rank 8 XYZ-
+Rank 8 materials that are already there:
+None.
+Number of locked cards: 0
+Generating new Rank 8 material
+Slot number: 3
+Number of locked cards: 1
+Generating new Rank 8 material
+Slot number: 4
+Replacement not necessary for 9634146: Tuner LV3 already there
+Slot number: 19
+-Rank 6 XYZ-
+Rank 6 materials that are already there:
+None.
+Number of locked cards: 0
+Generating new Rank 6 material
+Slot number: 5
+Number of locked cards: 1
+Generating new Rank 6 material
+Slot number: 6
+Replacement not necessary for 33698022: Tuner LV3 already there
+Slot number: 19
+-Rank 3 XYZ-
+The Rank 3 materials are already there:
+Card n°: 57568840
+at Slot number: 19
+Card n°: 26701483
+at Slot number: 23
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 64379430
+at Slot number: 0
+Card n°: 17720747
+at Slot number: 2
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 64379430
+at Slot number: 0
+Card n°: 17720747
+at Slot number: 2
+Replacement not necessary for 6568731: Tuner LV3 already there
+Slot number: 19
+------------------------
+CHECKING DECK
+------------------------
+Checking slot n° 0
+64379430 Generic Banish
+Card Banish NECESSARY FOR:
+64379430
+At slot n° 0
+No Banish cards!
+REPLACEMENT: slot n°0
+61528025
+Continuing from slot n° 0
+Checking slot n° 1
+6142213 Generic
+Checking at slot n° 0: card n° 61528025
+Checking slot n° 0
+61528025 Generic
+Checking slot n° 1
+6142213 Generic
+Checking slot n° 2
+17720747 Generic
+Checking slot n° 3
+36354007 Generic
+Checking slot n° 4
+23689697 Generic
+Checking slot n° 5
+83274244 Generic
+Checking slot n° 6
+46565218 Generic
+Checking slot n° 7
+40204620 Generic
+Checking slot n° 8
+95920682 Generic
+Checking slot n° 9
+50470982 Generic
+Checking slot n° 10
+37198732 Generic
+Checking slot n° 11
+36442179 Generic
+Checking slot n° 12
+73820802 Generic
+Checking slot n° 13
+5616412 Generic
+Checking slot n° 14
+73578229 Generic
+Checking slot n° 15
+3072077 Generic
+Checking slot n° 16
+96947648 Generic
+Checking slot n° 17
+92125819 Generic
+Checking slot n° 18
+38834303 Generic
+Checking slot n° 19
+57568840 Generic
+Checking slot n° 20
+74677422 Generic
+Checking slot n° 21
+21593977 Generic
+Checking slot n° 22
+18842395 Generic
+Checking slot n° 23
+26701483 Generic
+Checking slot n° 24
+74402414 Generic
+Checking slot n° 25
+18235577 Generic
+Checking slot n° 26
+48310593 Generic
+Checking slot n° 27
+31036355 Generic
+Checking slot n° 28
+42149850 Generic
+Checking slot n° 29
+18144506 Generic
+Checking slot n° 30
+38199696 Generic
+Checking slot n° 31
+75902998 Generic
+Checking slot n° 32
+75987257 Generic
+Checking slot n° 33
+86742443 Generic
+Checking slot n° 34
+2371506 Generic
+Checking slot n° 35
+26993374 Generic
+Checking slot n° 36
+15458892 Generic
+Checking slot n° 37
+62953041 Generic
+Checking slot n° 38
+18489208 Generic
+Checking slot n° 39
+18591904 Generic
+------------------------
+CHECKING SETS
+------------------------
+------------------------
+FILLING DECK
+------------------------
+Filling free slot n°7 with a random card at slot n°18, but not locking this slot.
+Slot n°7 will stay free!
+Filling free slot n°8 with a bonus copy of card at slot n°0
+Filling free slot n°9 with a random card at slot n°28
+Filling free slot n°10 with a bonus copy of card at slot n°3
+Slot n°11 will stay free!
+Slot n°12 will stay free!
+Slot n°13 will stay free!
+Filling free slot n°14 with a bonus copy of card at slot n°38
+Slot n°16 will stay free!
+Slot n°17 will stay free!
+Slot n°18 will stay free!
+Slot n°20 will stay free!
+Slot n°21 will stay free!
+Filling free slot n°22 with a bonus copy of card at slot n°0
+Slot n°24 will stay free!
+Filling free slot n°25 with a bonus copy of card at slot n°37
+Slot n°26 will stay free!
+Slot n°27 will stay free!
+Slot n°28 will stay free!
+Slot n°29 will stay free!
+Slot n°30 will stay free!
+Slot n°31 will stay free!
+Filling free slot n°32 with a bonus copy of card at slot n°1
+Slot n°33 will stay free!
+Slot n°34 will stay free!
+Slot n°39 will stay free!
+------------------------
+OPTIMIZING DECK
+------------------------
+No need to add any High Level support optimization.
+No need to add any Ritual optimization.
+No need to add any Ritual optimization.
+No need to add any Pendulums optimization.
+No need to add any Level2lower optimization.
+No need to add any Gemini support optimization.
+No need to add any Gemini Monster optimization.
+No need to add any Normal support optimization.
+No need to add any Normal Monster optimization.
+No need to add any Spirit monster optimization.
+No need to add any Spirit support optimization.
+No need to add any Equip spells optimization.
+No need to add any Equip cards optimization.
+No need to add any Continspells optimization.
+No need to add any Fieldspells optimization.
+No need to add any Quickspells optimization.
+No need to add any Contintraps optimization.
+No need to add any Countertraps optimization.
+No need to add any Flip monster optimization.
+No need to add any Flip support optimization.
+No need to add any Banish optimization.
+No need to add any Tuners optimization.
+No need to add any Tokens optimization.
+No need to add any Union monster optimization.
+No need to add any Union support optimization.
+No need to add any Spell Counter optimization.
+Optimization! Adding 2 XYZ support cards
+Generating new XYZ support material
+59070329 at slot number: 7
+Generating new XYZ support material
+31314549 at slot number: 11
+No luck! Not adding any Synchro support cards this time.
+No need to add any Link support optimization.
+No need to add any Level1 optimization.
+No need to add any Level3 optimization.
+No need to add any Level7 optimization.
+No need to add any Level8 optimization.
+------------------------
+FINAL CHECKS: n° 1
+------------------------
+Checking slot n° 0
+61528025 Generic
+Checking slot n° 1
+6142213 Generic
+Checking slot n° 2
+17720747 Generic
+Checking slot n° 3
+36354007 Generic
+Checking slot n° 4
+23689697 Generic
+Checking slot n° 5
+83274244 Generic
+Checking slot n° 6
+46565218 Generic
+Checking slot n° 7
+59070329 Generic
+Checking slot n° 8
+61528025 Generic
+Checking slot n° 9
+42149850 Generic
+Checking slot n° 10
+36354007 Generic
+Checking slot n° 11
+31314549 Generic
+Checking slot n° 12
+73820802 Generic
+Checking slot n° 13
+5616412 Generic
+Checking slot n° 14
+18489208 Generic
+Checking slot n° 15
+3072077 Generic
+Checking slot n° 16
+96947648 Generic
+Checking slot n° 17
+92125819 Generic
+Checking slot n° 18
+38834303 Generic
+Checking slot n° 19
+57568840 Generic
+Checking slot n° 20
+74677422 Generic
+Checking slot n° 21
+21593977 Generic
+Checking slot n° 22
+61528025 Generic
+Checking slot n° 23
+26701483 Generic
+Checking slot n° 24
+74402414 Generic
+Checking slot n° 25
+62953041 Generic
+Checking slot n° 26
+48310593 Generic
+Checking slot n° 27
+31036355 Generic
+Checking slot n° 28
+42149850 Generic
+Checking slot n° 29
+18144506 Generic
+Checking slot n° 30
+38199696 Generic
+Checking slot n° 31
+75902998 Generic
+Checking slot n° 32
+6142213 Generic
+Checking slot n° 33
+86742443 Generic
+Checking slot n° 34
+2371506 Generic
+Checking slot n° 35
+26993374 Generic
+Checking slot n° 36
+15458892 Generic
+Checking slot n° 37
+62953041 Generic
+Checking slot n° 38
+18489208 Generic
+Checking slot n° 39
+18591904 Generic
+[0, 1, 2, 3, 4, 5, 6, 7, 100, 128, 103, 11, 666, 666, 138, 15, 666, 666, 666, 19, 666, 666, 100, 23, 666, 137, 666, 666, 666, 666, 666, 666, 101, 666, 666, 35, 36, 37, 38, 666]
+

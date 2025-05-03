@@ -1,0 +1,790 @@
+Name of the deck: 
+Man-bat Von, Winged Beast Fortune Fairy
+------------------------
+CHECKING EXTRA MATERIALS
+------------------------
+Replacement not necessary for 68084557: Tuner LV3 already there
+Slot number: 15
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 23421244
+at Slot number: 8
+Card n°: 52702748
+at Slot number: 19
+-Rank 8 XYZ-
+The Rank 8 materials are already there:
+Card n°: 71200730
+at Slot number: 13
+Card n°: 75745607
+at Slot number: 37
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 23421244
+at Slot number: 8
+Card n°: 52702748
+at Slot number: 19
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 23421244
+at Slot number: 8
+Card n°: 52702748
+at Slot number: 19
+Replacement not necessary for 63422098: Tuner LV3 already there
+Slot number: 15
+Replacement not necessary for 43366227: Tuner LV3 already there
+Slot number: 15
+-Rank 7 XYZ-
+Rank 7 materials that are already there:
+Slot number: 18
+Number of locked cards: 1
+Generating new Rank 7 material
+Slot number: 0
+------------------------
+CHECKING DECK
+------------------------
+Checking slot n° 0
+39343610 Generic
+Checking slot n° 1
+33298291 Generic
+Checking slot n° 2
+12253117 Generic
+Checking slot n° 3
+12923641 Generic
+Checking slot n° 4
+33900648 Generic
+Checking slot n° 5
+83195035 Generic Banish
+Card Banish NECESSARY FOR:
+83195035
+At slot n° 5
+No Banish cards!
+REPLACEMENT: slot n°1
+31849106
+Checking at slot n° 1: card n° 31849106
+Checking slot n° 1
+31849106 Generic
+Checking slot n° 2
+12253117 Generic
+Checking slot n° 3
+12923641 Generic
+Checking slot n° 4
+33900648 Generic
+Checking slot n° 5
+83195035 Generic Banish
+Card Banish NECESSARY FOR:
+83195035
+At slot n° 5
+Card Banish already there: 31849106 at position n° 1
+ Number of copies: 1, replacement not necessary
+Checking slot n° 6
+73431236 Generic Equipcards
+Card Equipcards NECESSARY FOR:
+73431236
+At slot n° 6
+Card Equipcards already there: 4857085 at position n° 24
+ Number of copies: 1, replacement not necessary
+Checking slot n° 7
+94425169 Generic
+Checking slot n° 8
+23421244 Generic
+Checking slot n° 9
+4064256 Generic
+Checking slot n° 10
+61623148 Generic
+Checking slot n° 11
+11851647 Generic
+Checking slot n° 12
+72403299 Generic
+Checking slot n° 13
+71200730 Generic
+Checking slot n° 14
+35956022 Generic
+Checking slot n° 15
+52038441 Generic
+Checking slot n° 16
+97973387 Generic
+Checking slot n° 17
+38723936 Generic
+Checking slot n° 18
+50781944 Generic
+Checking slot n° 19
+52702748 Generic
+Checking slot n° 20
+20474741 Generic Level3
+Card Level3 NECESSARY FOR:
+20474741
+At slot n° 20
+Card Level3 already there: 72403299 at position n° 12
+ Number of copies: 1, replacement not necessary
+Checking slot n° 21
+87340664 Generic
+Checking slot n° 22
+80344569 Generic
+Checking slot n° 23
+25652259 Generic
+Checking slot n° 24
+4857085 Generic
+Checking slot n° 25
+164710 Generic
+Checking slot n° 26
+31557782 Generic
+Checking slot n° 27
+24940422 Generic
+Checking slot n° 28
+27243130 Generic
+Checking slot n° 29
+16227556 Generic
+Checking slot n° 30
+19844995 Generic
+Checking slot n° 31
+20899496 Generic
+Checking slot n° 32
+20735371 Generic
+Checking slot n° 33
+54591086 Generic
+Checking slot n° 34
+35035481 Generic
+Checking slot n° 35
+24221739 Generic
+Checking slot n° 36
+15458892 Generic
+Checking slot n° 37
+75745607 Generic
+Checking slot n° 38
+20700531 Generic
+Checking slot n° 39
+17521642 Generic Banish
+Card Banish NECESSARY FOR:
+17521642
+At slot n° 39
+Card Banish already there: 31849106 at position n° 1
+ Number of copies: 1, replacement not necessary
+------------------------
+CHECKING SETS
+------------------------
+------------------------
+OPTIMIZING DECK
+------------------------
+No need to add any Ritual optimization.
+No need to add any Ritual optimization.
+No need to add any Pendulums optimization.
+No need to add any Level2lower optimization.
+No need to add any Gemini support optimization.
+No need to add any Gemini Monster optimization.
+No need to add any Normal support optimization.
+No need to add any Normal Monster optimization.
+No need to add any Spirits optimization.
+No need to add any Spirit Monsters optimization.
+No need to add any Flip monster optimization.
+No need to add any Spell Counter optimization.
+No need to add any Union monster optimization.
+No need to add any Union support optimization.
+No need to add any Equip spells optimization.
+No need to add any Equip cards optimization.
+No need to add any Continspells optimization.
+No need to add any Fieldspells optimization.
+No need to add any Quickspells optimization.
+No need to add any Contintraps optimization.
+No need to add any Countertraps optimization.
+Optimization! Adding 1 Banish cards
+Generating new Banish material
+95472621 at slot number: 2
+No need to add any Tuners optimization.
+No need to add any Tokens optimization.
+No need to add any XYZ support optimization.
+No need to add any Synchro support optimization.
+Optimization! Adding 1 Link support cards
+Generating new Link support material
+50366775 at slot number: 3
+No need to add any Level1 optimization.
+No need to add any Level3 optimization.
+No need to add any Level7 optimization.
+No need to add any Level8 optimization.
+------------------------
+FINAL CHECKS: n° 1
+------------------------
+Checking slot n° 0
+39343610 Generic
+Checking slot n° 1
+31849106 Generic
+Checking slot n° 2
+95472621 Generic
+Checking slot n° 3
+50366775 Generic
+Checking slot n° 4
+33900648 Generic
+Checking slot n° 5
+83195035 Generic Banish
+Card Banish NECESSARY FOR:
+83195035
+At slot n° 5
+Card Banish already there: 31849106 at position n° 1
+ Number of copies: 1, replacement not necessary
+Checking slot n° 6
+73431236 Generic Equipcards
+Card Equipcards NECESSARY FOR:
+73431236
+At slot n° 6
+Card Equipcards already there: 4857085 at position n° 24
+ Number of copies: 1, replacement not necessary
+Checking slot n° 7
+94425169 Generic
+Checking slot n° 8
+23421244 Generic
+Checking slot n° 9
+4064256 Generic
+Checking slot n° 10
+61623148 Generic
+Checking slot n° 11
+11851647 Generic
+Checking slot n° 12
+72403299 Generic
+Checking slot n° 13
+71200730 Generic
+Checking slot n° 14
+35956022 Generic
+Checking slot n° 15
+52038441 Generic
+Checking slot n° 16
+97973387 Generic
+Checking slot n° 17
+38723936 Generic
+Checking slot n° 18
+50781944 Generic
+Checking slot n° 19
+52702748 Generic
+Checking slot n° 20
+20474741 Generic Level3
+Card Level3 NECESSARY FOR:
+20474741
+At slot n° 20
+Card Level3 already there: 72403299 at position n° 12
+ Number of copies: 1, replacement not necessary
+Checking slot n° 21
+87340664 Generic
+Checking slot n° 22
+80344569 Generic
+Checking slot n° 23
+25652259 Generic
+Checking slot n° 24
+4857085 Generic
+Checking slot n° 25
+164710 Generic
+Checking slot n° 26
+31557782 Generic
+Checking slot n° 27
+24940422 Generic
+Checking slot n° 28
+27243130 Generic
+Checking slot n° 29
+16227556 Generic
+Checking slot n° 30
+19844995 Generic
+Checking slot n° 31
+20899496 Generic
+Checking slot n° 32
+20735371 Generic
+Checking slot n° 33
+54591086 Generic
+Checking slot n° 34
+35035481 Generic
+Checking slot n° 35
+24221739 Generic
+Checking slot n° 36
+15458892 Generic
+Checking slot n° 37
+75745607 Generic
+Checking slot n° 38
+20700531 Generic
+Checking slot n° 39
+17521642 Generic Banish
+Card Banish NECESSARY FOR:
+17521642
+At slot n° 39
+Card Banish already there: 31849106 at position n° 1
+ Number of copies: 1, replacement not necessary
+[0, 1, 2, 3, 666, 5, 6, 666, 8, 666, 666, 666, 12, 13, 666, 15, 666, 666, 18, 19, 20, 666, 666, 666, 24, 666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 35, 36, 37, 38, 39]
+
+Name of the deck: 
+Phantom Gryphon, Professional Synchro
+------------------------
+CHECKING EXTRA MATERIALS
+------------------------
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 80559548
+at Slot number: 7
+Card n°: 17530001
+at Slot number: 12
+-Rank 3 XYZ-
+The Rank 3 materials are already there:
+Card n°: 1102515
+at Slot number: 3
+Card n°: 95360850
+at Slot number: 8
+-Rank 2 XYZ-
+The Rank 2 materials are already there:
+Card n°: 36750412
+at Slot number: 5
+Card n°: 3773196
+at Slot number: 17
+Card Tuner LV3 NECESSARY FOR:
+80108118
+REPLACEMENT: slot n°0
+13708425
+-Rank 2 XYZ-
+The Rank 2 materials are already there:
+Card n°: 36750412
+at Slot number: 5
+Card n°: 3773196
+at Slot number: 17
+-Rank 8 XYZ-
+Rank 8 materials that are already there:
+None.
+Number of locked cards: 0
+Generating new Rank 8 material
+Slot number: 1
+Number of locked cards: 1
+Generating new Rank 8 material
+Slot number: 2
+Replacement not necessary for 33698022: Tuner LV3 already there
+Slot number: 0
+Replacement not necessary for 4179255: Tuner LV3 already there
+Slot number: 0
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 80559548
+at Slot number: 7
+Card n°: 17530001
+at Slot number: 12
+------------------------
+CHECKING DECK
+------------------------
+Checking slot n° 0
+13708425 Generic
+Checking slot n° 1
+12338068 Generic
+Checking slot n° 2
+41753322 Generic
+Checking slot n° 3
+1102515 Generic Pair
+Replaced Pair card at slot n° 4 : 74713516
+Continuing from slot n° 3
+Checking slot n° 4
+74713516 Generic Pair
+Pair card is already present at at slot n° 3: 1102515
+Continuing from slot n° 4
+Checking slot n° 5
+36750412 Generic
+Checking at slot n° 4: card n° 74713516
+Checking slot n° 4
+74713516 Generic Pair
+Pair card is already present at at slot n° 3: 1102515
+Checking slot n° 5
+36750412 Generic
+Checking slot n° 6
+63630268 Generic
+Checking slot n° 7
+80559548 Generic
+Checking slot n° 8
+95360850 Generic
+Checking slot n° 9
+33776734 Generic
+Checking slot n° 10
+30208479 Generic Ritual
+Rituals in the trash! Picking another card: 93920745
+Continuing from slot n° 9
+Checking slot n° 10
+93920745 Generic
+Continuing from slot n° 10
+Checking slot n° 11
+93730409 Generic
+Checking at slot n° 10: card n° 93920745
+Checking slot n° 10
+93920745 Generic
+Checking slot n° 11
+93730409 Generic
+Checking slot n° 12
+17530001 Generic
+Checking slot n° 13
+79922118 Generic
+Checking slot n° 14
+70138455 Generic
+Checking slot n° 15
+90846359 Generic
+Checking slot n° 16
+10202894 Generic
+Checking slot n° 17
+3773196 Generic Banish
+Card Banish NECESSARY FOR:
+3773196
+At slot n° 17
+No Banish cards!
+REPLACEMENT: slot n°6
+8868767
+Checking at slot n° 6: card n° 8868767
+Checking slot n° 6
+8868767 Generic
+Checking slot n° 7
+80559548 Generic
+Checking slot n° 8
+95360850 Generic
+Checking slot n° 9
+33776734 Generic
+Checking slot n° 10
+93920745 Generic
+Checking slot n° 11
+93730409 Generic
+Checking slot n° 12
+17530001 Generic
+Checking slot n° 13
+79922118 Generic
+Checking slot n° 14
+70138455 Generic
+Checking slot n° 15
+90846359 Generic
+Checking slot n° 16
+10202894 Generic
+Checking slot n° 17
+3773196 Generic Banish
+Card Banish NECESSARY FOR:
+3773196
+At slot n° 17
+Card Banish already there: 8868767 at position n° 6
+ Number of copies: 1, replacement not necessary
+Checking slot n° 18
+16720314 Generic
+Checking slot n° 19
+58831685 Generic
+Checking slot n° 20
+26099457 Generic
+Checking slot n° 21
+2851070 Generic
+Checking slot n° 22
+70630741 Generic
+Checking slot n° 23
+33656832 Generic Pendulum
+33656832 at slot n° 23 needs a Pendulumcard
+Replaced Pendulum card at slot n° 9 : 37256334
+Checking at slot n° 9: card n° 37256334
+Checking slot n° 9
+37256334 Generic Pendulum
+37256334 at slot n° 9 needs a Pendulumcard
+Pendulum card is already present at at slot n° 23: 33656832
+Checking slot n° 10
+93920745 Generic
+Checking slot n° 11
+93730409 Generic
+Checking slot n° 12
+17530001 Generic
+Checking slot n° 13
+79922118 Generic
+Checking slot n° 14
+70138455 Generic
+Checking slot n° 15
+90846359 Generic
+Checking slot n° 16
+10202894 Generic
+Checking slot n° 17
+3773196 Generic Banish
+Card Banish NECESSARY FOR:
+3773196
+At slot n° 17
+Card Banish already there: 8868767 at position n° 6
+ Number of copies: 1, replacement not necessary
+Checking slot n° 18
+16720314 Generic
+Checking slot n° 19
+58831685 Generic
+Checking slot n° 20
+26099457 Generic
+Checking slot n° 21
+2851070 Generic
+Checking slot n° 22
+70630741 Generic
+Checking slot n° 23
+33656832 Generic Pendulum
+33656832 at slot n° 23 needs a Pendulumcard
+Pendulum card is already present at at slot n° 9: 37256334
+Checking slot n° 24
+26120084 Generic Gemini
+Card Gemini NECESSARY FOR:
+26120084
+At slot n° 24
+No Gemini cards!
+REPLACEMENT: slot n°10
+16984449
+Checking at slot n° 10: card n° 16984449
+Checking slot n° 10
+16984449 Generic Gemini
+Card Gemini NECESSARY FOR:
+16984449
+At slot n° 10
+16984449 is the only card! It can't call itself!
+REPLACEMENT: slot n°10
+34761062
+Continuing from slot n° 10
+Checking slot n° 11
+93730409 Generic
+Checking at slot n° 10: card n° 34761062
+Checking slot n° 10
+34761062 Generic
+Checking slot n° 11
+93730409 Generic
+Checking slot n° 12
+17530001 Generic
+Checking slot n° 13
+79922118 Generic
+Checking slot n° 14
+70138455 Generic
+Checking slot n° 15
+90846359 Generic
+Checking slot n° 16
+10202894 Generic
+Checking slot n° 17
+3773196 Generic Banish
+Card Banish NECESSARY FOR:
+3773196
+At slot n° 17
+Card Banish already there: 8868767 at position n° 6
+ Number of copies: 1, replacement not necessary
+Checking slot n° 18
+16720314 Generic
+Checking slot n° 19
+58831685 Generic
+Checking slot n° 20
+26099457 Generic
+Checking slot n° 21
+2851070 Generic
+Checking slot n° 22
+70630741 Generic
+Checking slot n° 23
+33656832 Generic Pendulum
+33656832 at slot n° 23 needs a Pendulumcard
+Pendulum card is already present at at slot n° 9: 37256334
+Checking slot n° 24
+26120084 Generic Gemini
+Card Gemini NECESSARY FOR:
+26120084
+At slot n° 24
+Card Gemini already there: 34761062 at position n° 10
+ Number of copies: 1, replacement not necessary
+Checking slot n° 25
+90365482 Generic
+Checking slot n° 26
+17243896 Generic
+Checking slot n° 27
+21623008 Generic
+Checking slot n° 28
+66788016 Generic
+Checking slot n° 29
+37812118 Generic
+Checking slot n° 30
+16435215 Generic
+Checking slot n° 31
+56856951 Generic
+Checking slot n° 32
+39454112 Generic
+Checking slot n° 33
+18739764 Generic
+Checking slot n° 34
+15552258 Generic
+Checking slot n° 35
+93187568 Generic
+Checking slot n° 36
+25788011 Generic
+Checking slot n° 37
+34160055 Generic
+Checking slot n° 38
+8649148 Generic
+Checking slot n° 39
+96404912 Generic
+------------------------
+CHECKING SETS
+------------------------
+------------------------
+FILLING DECK
+------------------------
+Slot n°11 will stay free!
+Slot n°13 will stay free!
+Slot n°14 will stay free!
+Slot n°15 will stay free!
+Slot n°16 will stay free!
+Filling free slot n°18 with a bonus copy of card at slot n°17
+Slot n°19 will stay free!
+Slot n°20 will stay free!
+Slot n°21 will stay free!
+Slot n°22 will stay free!
+Slot n°25 will stay free!
+Filling free slot n°26 with a random card at slot n°26
+Slot n°27 will stay free!
+Filling free slot n°28 with a random card at slot n°38, but not locking this slot.
+Slot n°28 will stay free!
+Slot n°29 will stay free!
+Slot n°30 will stay free!
+Filling free slot n°31 with a bonus copy of card at slot n°23
+Slot n°32 will stay free!
+Slot n°33 will stay free!
+Slot n°34 will stay free!
+Slot n°39 will stay free!
+------------------------
+OPTIMIZING DECK
+------------------------
+No need to add any High Level support optimization.
+No need to add any Ritual optimization.
+No need to add any Ritual optimization.
+No need to add any Pendulums optimization.
+No need to add any Level2lower optimization.
+No need to add any Gemini support optimization.
+No need to add any Gemini Monster optimization.
+No need to add any Normal support optimization.
+No need to add any Normal Monster optimization.
+No need to add any Spirit monster optimization.
+No need to add any Spirit support optimization.
+No need to add any Equip spells optimization.
+No need to add any Equip cards optimization.
+No need to add any Continspells optimization.
+No need to add any Fieldspells optimization.
+No need to add any Quickspells optimization.
+No need to add any Contintraps optimization.
+No need to add any Countertraps optimization.
+No need to add any Flip monster optimization.
+No need to add any Flip support optimization.
+No need to add any Banish optimization.
+No need to add any Tuners optimization.
+No need to add any Tokens optimization.
+No need to add any Union monster optimization.
+No need to add any Union support optimization.
+No need to add any Spell Counter optimization.
+No need to add any XYZ support optimization.
+No need to add any Synchro support optimization.
+Optimization! Adding 2 Link support cards
+Generating new Link support material
+93655221 at slot number: 11
+Generating new Link support material
+879958 at slot number: 13
+No need to add any Level1 optimization.
+Optimization! Adding 2 Level3 cards
+Generating new Level3 material
+20474741 at slot number: 14
+Generating new Level3 material
+28637168 at slot number: 15
+No need to add any Level7 optimization.
+No need to add any Level8 optimization.
+------------------------
+FINAL CHECKS: n° 1
+------------------------
+Checking slot n° 0
+13708425 Generic
+Checking slot n° 1
+12338068 Generic
+Checking slot n° 2
+41753322 Generic
+Checking slot n° 3
+1102515 Generic Pair
+Pair card is already present at at slot n° 4: 74713516
+Checking slot n° 4
+74713516 Generic Pair
+Pair card is already present at at slot n° 3: 1102515
+Checking slot n° 5
+36750412 Generic
+Checking slot n° 6
+8868767 Generic
+Checking slot n° 7
+80559548 Generic
+Checking slot n° 8
+95360850 Generic
+Checking slot n° 9
+37256334 Generic Pendulum
+37256334 at slot n° 9 needs a Pendulumcard
+Pendulum card is already present at at slot n° 23: 33656832
+Checking slot n° 10
+34761062 Generic
+Checking slot n° 11
+93655221 Generic
+Checking slot n° 12
+17530001 Generic
+Checking slot n° 13
+879958 Generic
+Checking slot n° 14
+20474741 Generic Level3
+Card Level3 NECESSARY FOR:
+20474741
+At slot n° 14
+Card Level3 already there: 13708425 at position n° 0
+ Number of copies: 1, replacement not necessary
+Checking slot n° 15
+28637168 Generic Level3
+Card Level3 NECESSARY FOR:
+28637168
+At slot n° 15
+Card Level3 already there: 13708425 at position n° 0
+ Number of copies: 1, replacement not necessary
+Checking slot n° 16
+10202894 Generic
+Checking slot n° 17
+3773196 Generic Banish
+Card Banish NECESSARY FOR:
+3773196
+At slot n° 17
+Card Banish already there: 8868767 at position n° 6
+ Number of copies: 1, replacement not necessary
+Checking slot n° 18
+3773196 Generic Banish
+Card Banish NECESSARY FOR:
+3773196
+At slot n° 18
+Card Banish already there: 8868767 at position n° 6
+ Number of copies: 1, replacement not necessary
+Checking slot n° 19
+58831685 Generic
+Checking slot n° 20
+26099457 Generic
+Checking slot n° 21
+2851070 Generic
+Checking slot n° 22
+70630741 Generic
+Checking slot n° 23
+33656832 Generic Pendulum
+33656832 at slot n° 23 needs a Pendulumcard
+Pendulum card is already present at at slot n° 9: 37256334
+Checking slot n° 24
+26120084 Generic Gemini
+Card Gemini NECESSARY FOR:
+26120084
+At slot n° 24
+Card Gemini already there: 34761062 at position n° 10
+ Number of copies: 1, replacement not necessary
+Checking slot n° 25
+90365482 Generic
+Checking slot n° 26
+17243896 Generic
+Checking slot n° 27
+21623008 Generic
+Checking slot n° 28
+8649148 Generic
+Checking slot n° 29
+37812118 Generic
+Checking slot n° 30
+16435215 Generic
+Checking slot n° 31
+33656832 Generic Pendulum
+33656832 at slot n° 31 needs a Pendulumcard
+Pendulum card is already present at at slot n° 9: 37256334
+Checking slot n° 32
+39454112 Generic
+Checking slot n° 33
+18739764 Generic
+Checking slot n° 34
+15552258 Generic
+Checking slot n° 35
+93187568 Generic
+Checking slot n° 36
+25788011 Generic
+Checking slot n° 37
+34160055 Generic
+Checking slot n° 38
+8649148 Generic
+Checking slot n° 39
+96404912 Generic
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 666, 17, 18, 666, 666, 666, 666, 23, 24, 666, 126, 666, 666, 666, 666, 31, 666, 666, 666, 35, 36, 37, 38, 666]

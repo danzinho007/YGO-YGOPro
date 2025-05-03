@@ -1,0 +1,407 @@
+Name of the deck: 
+Sammura, Emerging Lesbian
+------------------------
+CHECKING EXTRA MATERIALS
+------------------------
+Replacement not necessary for 32646477: Tuner LV3 already there
+Slot number: 37
+-Rank 5 XYZ-
+Rank 5 materials that are already there:
+Slot number: 7
+Number of locked cards: 1
+Generating new Rank 5 material
+Slot number: 0
+Replacement not necessary for 33698022: Tuner LV3 already there
+Slot number: 37
+-Rank 5 XYZ-
+The Rank 5 materials are already there:
+Card n°: 35595518
+at Slot number: 0
+Card n°: 14778250
+at Slot number: 7
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 71930383
+at Slot number: 10
+Card n°: 94215860
+at Slot number: 11
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 71930383
+at Slot number: 10
+Card n°: 94215860
+at Slot number: 11
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 71930383
+at Slot number: 10
+Card n°: 94215860
+at Slot number: 11
+-Rank 4 XYZ-
+The Rank 4 materials are already there:
+Card n°: 71930383
+at Slot number: 10
+Card n°: 94215860
+at Slot number: 11
+Card Tuner LV4 NECESSARY FOR:
+70780151
+REPLACEMENT: slot n°1
+41902352
+Replacement not necessary for 28240337: Tuner LV3 already there
+Slot number: 37
+Card Tuner LV2 NECESSARY FOR:
+7582066
+REPLACEMENT: slot n°2
+62154416
+Replacement not necessary for 60992105: Tuner LV4 already there
+Slot number: 1
+-Rank 2 XYZ-
+The Rank 2 materials are already there:
+Card n°: 62154416
+at Slot number: 2
+Card n°: 55063681
+at Slot number: 8
+------------------------
+CHECKING DECK
+------------------------
+Checking slot n° 0
+35595518 Generic
+Checking slot n° 1
+41902352 Generic
+Checking slot n° 2
+62154416 Generic
+Checking slot n° 3
+92435533 Generic
+Checking slot n° 4
+87978805 Generic Tokens
+Card Tokens NECESSARY FOR:
+87978805
+At slot n° 4
+No Tokens cards!
+REPLACEMENT: slot n°3
+23116808
+Checking at slot n° 3: card n° 23116808
+Checking slot n° 3
+23116808 Generic
+Checking slot n° 4
+87978805 Generic Tokens
+Card Tokens NECESSARY FOR:
+87978805
+At slot n° 4
+Card Tokens already there: 23116808 at position n° 3
+ Number of copies: 1, replacement not necessary
+Checking slot n° 5
+6799227 Generic
+Checking slot n° 6
+76714458 Generic
+Checking slot n° 7
+14778250 Generic Pair
+Replaced Pair card at slot n° 5 : 75622824
+Checking at slot n° 5: card n° 75622824
+Checking slot n° 5
+75622824 Generic Pair
+Pair card is already present at at slot n° 7: 14778250
+Checking slot n° 6
+76714458 Generic
+Checking slot n° 7
+14778250 Generic Pair
+Pair card is already present at at slot n° 5: 75622824
+Checking slot n° 8
+55063681 Generic
+Checking slot n° 9
+10000080 Generic
+Checking slot n° 10
+71930383 Generic
+Checking slot n° 11
+94215860 Generic
+Checking slot n° 12
+96643568 Generic
+Checking slot n° 13
+43417563 Generic Ritual
+Rituals in the trash! Picking another card: 83968380
+Continuing from slot n° 12
+Checking slot n° 13
+83968380 Generic
+Continuing from slot n° 13
+Checking slot n° 14
+67169062 Generic
+Checking at slot n° 13: card n° 83968380
+Checking slot n° 13
+83968380 Generic
+Checking slot n° 14
+67169062 Generic
+Checking slot n° 15
+51402177 Generic
+Checking slot n° 16
+91501248 Generic
+Checking slot n° 17
+36361633 Generic
+Checking slot n° 18
+5562461 Generic
+Checking slot n° 19
+30653113 Generic
+Checking slot n° 20
+43014054 Generic
+Checking slot n° 21
+34710660 Generic
+Checking slot n° 22
+47355498 Generic
+Checking slot n° 23
+42664989 Generic
+Checking slot n° 24
+76224717 Generic
+Checking slot n° 25
+32679370 Generic Calls itself
+ADDITIONAL COPIES FOR:
+32679370
+SECOND COPY: slot n°6
+32679370
+THIRD COPY: slot n°9
+32679370
+Multiple replacements!
+Checking at slot n° 6: card n° 32679370
+Checking slot n° 6
+32679370 Generic Calls itself
+Card 32679370 has already 3 copies!
+Continuing from slot n° 6
+Checking slot n° 7
+14778250 Generic Pair
+Pair card is already present at at slot n° 5: 75622824
+Continuing from slot n° 7
+Checking slot n° 8
+55063681 Generic
+Continuing from slot n° 8
+Checking slot n° 9
+32679370 Generic Calls itself
+Card 32679370 has already 3 copies!
+Continuing from slot n° 9
+Checking slot n° 10
+71930383 Generic
+Checking at slot n° 9: card n° 32679370
+Checking slot n° 9
+32679370 Generic Calls itself
+Card 32679370 has already 3 copies!
+Back to slot n° 25
+Checking slot n° 25
+32679370 Generic Calls itself
+Card 32679370 has already 3 copies!
+Checking slot n° 26
+61391302 Generic
+Checking slot n° 27
+9845733 Generic Ritual
+Replaced Ritual card at slot n° 12 : 10789972
+Checking at slot n° 12: card n° 10789972
+Checking slot n° 12
+10789972 Generic Ritual Normal
+Card Normal NECESSARY FOR:
+10789972
+At slot n° 12
+No Normal cards!
+REPLACEMENT: slot n°12
+68182934
+Ritual card is already present at at slot n° 27: 9845733
+Continuing from slot n° 12
+Checking slot n° 13
+83968380 Generic
+Checking at slot n° 12: card n° 68182934
+Checking slot n° 12
+68182934 Generic Pendulum Normal
+Card Normal NECESSARY FOR:
+68182934
+At slot n° 12
+68182934 is the only card! It can't call itself!
+REPLACEMENT: slot n°12
+12883044
+68182934 at slot n° 12 needs a Pendulumcard
+Replaced Pendulum card at slot n° 13 : 64450427
+Multiple replacements!
+Checking at slot n° 12: card n° 12883044
+Checking slot n° 12
+12883044 Generic
+Continuing from slot n° 12
+Checking slot n° 13
+64450427 Generic Pendulum
+64450427 at slot n° 13 needs a Pendulumcard
+Replaced Pendulum card at slot n° 14 : 58092907
+Multiple replacements!
+Checking at slot n° 13: card n° 64450427
+Checking slot n° 13
+64450427 Generic Pendulum
+64450427 at slot n° 13 needs a Pendulumcard
+Pendulum card is already present at at slot n° 14: 58092907
+Continuing from slot n° 13
+Checking slot n° 14
+58092907 Generic Pendulum
+58092907 at slot n° 14 needs a Pendulumcard
+Pendulum card is already present at at slot n° 13: 64450427
+Continuing from slot n° 14
+Checking slot n° 15
+51402177 Generic
+Checking at slot n° 14: card n° 58092907
+Checking slot n° 14
+58092907 Generic Pendulum
+58092907 at slot n° 14 needs a Pendulumcard
+Pendulum card is already present at at slot n° 13: 64450427
+Back to slot n° 12
+Checking slot n° 12
+12883044 Generic
+Checking slot n° 13
+64450427 Generic Pendulum
+64450427 at slot n° 13 needs a Pendulumcard
+Pendulum card is already present at at slot n° 14: 58092907
+Checking slot n° 14
+58092907 Generic Pendulum
+58092907 at slot n° 14 needs a Pendulumcard
+Pendulum card is already present at at slot n° 13: 64450427
+Checking slot n° 15
+51402177 Generic
+Checking slot n° 16
+91501248 Generic
+Checking slot n° 17
+36361633 Generic
+Checking slot n° 18
+5562461 Generic
+Checking slot n° 19
+30653113 Generic
+Checking slot n° 20
+43014054 Generic
+Checking slot n° 21
+34710660 Generic
+Checking slot n° 22
+47355498 Generic
+Checking slot n° 23
+42664989 Generic
+Checking slot n° 24
+76224717 Generic
+Checking slot n° 25
+32679370 Generic Calls itself
+Card 32679370 has already 3 copies!
+Checking slot n° 26
+61391302 Generic
+Checking slot n° 27
+9845733 Generic Ritual
+Replaced Ritual card at slot n° 15 : 10789972
+Checking at slot n° 15: card n° 10789972
+Checking slot n° 15
+10789972 Generic Ritual Normal
+Card Normal NECESSARY FOR:
+10789972
+At slot n° 15
+Card Normal already there: 12883044 at position n° 12
+ Number of copies: 1, replacement not necessary
+Ritual card is already present at at slot n° 27: 9845733
+Checking slot n° 16
+91501248 Generic
+Checking slot n° 17
+36361633 Generic
+Checking slot n° 18
+5562461 Generic
+Checking slot n° 19
+30653113 Generic
+Checking slot n° 20
+43014054 Generic
+Checking slot n° 21
+34710660 Generic
+Checking slot n° 22
+47355498 Generic
+Checking slot n° 23
+42664989 Generic
+Checking slot n° 24
+76224717 Generic
+Checking slot n° 25
+32679370 Generic Calls itself
+Card 32679370 has already 3 copies!
+Checking slot n° 26
+61391302 Generic
+Checking slot n° 27
+9845733 Generic Ritual
+Ritual card is already present at at slot n° 15: 10789972
+Checking slot n° 28
+56460688 Generic
+Checking slot n° 29
+30653113 Generic
+Checking slot n° 30
+17052477 Generic
+Checking slot n° 31
+88494120 Generic
+Checking slot n° 32
+98299011 Generic
+Checking slot n° 33
+47247413 Generic
+Checking slot n° 34
+20920083 Generic
+Checking slot n° 35
+78706415 Generic
+Checking slot n° 36
+46272804 Generic
+Checking slot n° 37
+36717258 Generic
+Checking slot n° 38
+2102065 Generic
+Checking slot n° 39
+93016201 Generic
+------------------------
+CHECKING SETS
+------------------------
+------------------------
+FILLING DECK
+------------------------
+Filling free slot n°16 with a random card at slot n°31
+Filling free slot n°17 with a random card at slot n°20, but not locking this slot.
+Filling free slot n°17 with a bonus copy of card at slot n°38
+Slot n°18 will stay free!
+Filling free slot n°19 with a bonus copy of card at slot n°35
+Filling free slot n°20 with a bonus copy of card at slot n°1
+Slot n°21 will stay free!
+Slot n°22 will stay free!
+Slot n°23 will stay free!
+Filling free slot n°24 with a bonus copy of card at slot n°0
+Can't add this card! It has 3 copies already!
+Filling free slot n°26 with a bonus copy of card at slot n°0
+Slot n°28 will stay free!
+Slot n°29 will stay free!
+Slot n°30 will stay free!
+Filling free slot n°31 with a bonus copy of card at slot n°1
+Filling free slot n°32 with a random card at slot n°34
+Filling free slot n°33 with a random card at slot n°12, but not locking this slot.
+Filling free slot n°33 with a random card at slot n°7
+Slot n°34 will stay free!
+Slot n°39 will stay free!
+------------------------
+OPTIMIZING DECK
+------------------------
+No luck! Not adding any High Level support cards this time.
+No need to add any Ritual optimization.
+No need to add any Ritual optimization.
+No need to add any Pendulums optimization.
+No need to add any Level2lower optimization.
+No need to add any Gemini support optimization.
+No need to add any Gemini Monster optimization.
+No need to add any Normal support optimization.
+No need to add any Normal Monster optimization.
+No need to add any Spirit monster optimization.
+No need to add any Spirit support optimization.
+No need to add any Equip spells optimization.
+No need to add any Equip cards optimization.
+No need to add any Continspells optimization.
+No need to add any Fieldspells optimization.
+No need to add any Quickspells optimization.
+No need to add any Contintraps optimization.
+No need to add any Countertraps optimization.
+No need to add any Flip monster optimization.
+No need to add any Flip support optimization.
+No need to add any Banish optimization.
+No need to add any Tuners optimization.
+No need to add any Tokens optimization.
+No need to add any Union monster optimization.
+No need to add any Union support optimization.
+No need to add any Spell Counter optimization.
+No luck! Not adding any XYZ support cards this time.
+No need to add any Synchro support optimization.
+No need to add any Link support optimization.
+No need to add any Level1 optimization.
+No need to add any Level3 optimization.
+No need to add any Level7 optimization.
+No need to add any Level8 optimization.
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 131, 138, 999, 135, 101, 999, 999, 999, 100, 25, 100, 27, 999, 999, 999, 101, 134, 107, 999, 35, 36, 37, 38, 999]
+
