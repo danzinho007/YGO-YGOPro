@@ -1,0 +1,73 @@
+Projeto:
+
+1- Campo do Rush Duel
+  1 2 3 4       R V R 
+5 6 7 8 9 >>> M R R R D
+10 - 11
+
+Yu-Gi-Oh Rush Duel:
+1 2 3 = Zona de Monstros
+4 = Zona de Banidas
+5 = Terreno 
+6 7 8 = Zona de Magia/Armadilha
+9 = Cemitério
+10 = Extra Deck 
+11 = Deck 
+
+Vanguard
+V = Vanguard Circle
+Círculo do Guardião
+1,3,4,5 e 6 = Rear Guard
+Rear Guard: Cartas que ficam na retaguard
+M = Marcador
+D = Deck 
+
+2- Grau vs Level 
+Grau no Vanguard: 0 > Level no jogo: 1
+Grau no Vanguard: 1 > Level no jogo: 4
+Grau no Vanguard: 2 > Level no jogo: 6
+Grau no Vanguard: 3 > Level no jogo: 8
+Grau no Vanguard: 4 > Level no jogo: 10
+Grau no Vanguard: 5 > Level no jogo: 12
+
+3- Cartas 
+Cartas no Círculo Central não podem ser destruídas
+
+4- Vida
+Vai começar o duelo com 1 carta no terreno com 6 marcadores
+Cada vez que o Monstro do Círculo Central levar dano, 1 marcador é adicionado na carta, se a carta do oponente ter 1 de crítico 
+Caso tenha 2, ele adicion 2 
+E assim sucessivamente
+Se tiver 6 marcadores o jogador perde o duelo 
+
+5- Evoluir
+Se a carta for Lv 1 e estiver virada pra cima no campo, eu posso montar ( invocar encima dela outra carta ) ela pro nível 4
+Ai checa se a carta é nível 4, se for ela vai pra cima da de Lv 1
+Se a carta for Lv 4 e estiver virada pra cima no campo, eu posso subir ela pro nível 6
+Se a carta for Lv 6 e estiver virada pra cima no campo, eu posso subir ela pro nível 8
+Caso contrário não pode
+
+6- Damage Check
+Ao levar dano, o jogador puxa 1 carta do deck
+Se a carta for um trigger, escolhe 1 carta pra beneficiar
+A carta depois vai pro Cemitério
+
+7- Drive Check 
+Ao atacar com carta Grau 3, você pode faz uma checagem de Drive
+Ou seja, puxa uma carta, se ela for 1 trigger, beneficia alguém
+Caso contrário não
+Ela vai pra sua mão depois
+
+8- Defesa
+Ao atacar o oponente pode jogar cartas da mão pra defender
+Não sei como criar isso 
+Exemplo:
+Você ataca com Dragão Branco 30 000 de Ataque um monstro que tem 20 000 de ataque, o oponente pode jogar 3 cartas de 5 mil pra somar o ataque, subiu assim pra 35 mil e parando seu ataque
+
+9- Interceptar
+Ao atacar o oponente pode Interceptar
+Ou seja, usar cartas de grau 2 no campo pra ajudar na Defesa
+Não sei como criar isso 
+
+10- Counter Blast 
+Paga com marcador

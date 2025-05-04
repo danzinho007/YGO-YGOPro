@@ -1,0 +1,8 @@
+# database history
+C:\Users\Daniel\Documents\PC-  Notas\YGO-EDOPro\expansions\MinhaDatabase.cdb
+C:\Users\Daniel\Documents\PC-  Notas\YGO-EDOPro\expansions\cards-unofficial.cdb
+# script history
+C:\Users\Daniel\Documents\PC-  Notas\YGO-EDOPro\expansions\script\c111000011.lua
+C:\Users\Daniel\Documents\PC-  Notas\YGO-EDOPro\expansions\script\c111000004.lua
+C:\Users\Daniel\Documents\PC-  Notas\YGO-EDOPro\expansions\script\c111000003.lua
+C:\Users\Daniel\Documents\PC-  Notas\YGO-EDOPro\expansions\script\c111000001.lua
